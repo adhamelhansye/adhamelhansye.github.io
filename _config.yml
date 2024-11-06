@@ -288,7 +288,7 @@ defaults:
       share: true
       related: false
       sidebar:
-        nav: "BugBounty"
+        nav: "menu"
       
 
   # _pages
