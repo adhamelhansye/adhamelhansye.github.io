@@ -18,9 +18,9 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "john"
-description              : "Red Team / Pentest"
-url                      : "https://Johnermac.github.io/"
+name                     : "adham"
+description              : "Red Team - Pentest"
+url                      : "https://adhamelhansye.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,24 +107,24 @@ after_footer_scripts:
 
 # Site Author
 author:
-  name             : "Johnermac"
+  name             : "Adham Elhansye"
   avatar           : "/assets/images/main/avatar.jpg"
-  bio              : "Red Team Analyst / Pentester  "
-  location         : "Brazil"
+  bio              : "Red Team Analyst | Pentester | Malware Developer | Binary Exploiter | SOC | Threat Hunter    "
+  location         : "Egypt"
   email            :
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Johnermac"
+      url: "https://github.com/adhamelhansye"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/joao-gabriel-6520aa215/"
+      url: "https://www.linkedin.com/in/adham-elhansye/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://www.instagram.com/"
-    - label: "TryHackMe"
-      icon: "fab fa-fw fas fa-user-secret"
-      url: "https://tryhackme.com/p/Johnermac"
+    # label: "TryHackMe"
+     # icon: "fab fa-fw fas fa-user-secret"
+      #url: "https://tryhackme.com/p/Johnermac"
 
 # Site Footer
 footer:
