@@ -2,8 +2,8 @@
 main:  
   - title: "Posts"
     url: /
-  - title: "Menu"
-    url: /menu
+  - title: "BugBounty"
+    url: /bugbounty
   - title: "About"
     url: /about
 
