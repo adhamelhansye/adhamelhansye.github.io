@@ -1,7 +1,7 @@
 ---
 title: "BugBounty Profile"
 layout: archive
-permalink: /menu/
+permalink: /bugbounty/
 author_profile: false
 sidebar:
   nav: "bugbounty"
