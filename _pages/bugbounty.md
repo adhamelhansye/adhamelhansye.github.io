@@ -130,7 +130,7 @@ header:
           </tr>
           <tr>
             <td>25x</td>
-            <td>Leakds Credentails leads to ATO</td>
+            <td>Leaks Credentails leads to ATO</td>
           </tr>
           <tr>
             <td>1x</td>
