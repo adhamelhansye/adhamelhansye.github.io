@@ -105,6 +105,7 @@ header:
         <li><a href="https://medium.com/@adhamelhansye/the-power-of-github-recon-c279809551ee?source=user_profile_page---------0-------------15d9384b8fa5---------------" target="_blank">The Power of Github Recon</a></li>
         <li><a href="https://medium.com/@adhamelhansye/information-disclosure-leads-to-ftp-server-takeover-536d1929bcfa?source=user_profile_page---------1-------------15d9384b8fa5---------------" target="_blank">FTP Server Takeover</a></li>
         <li><a href="https://medium.com/@adhamelhansye/weak-registeration-implementation-leads-to-pre-account-takeover-3740bc4c6958?source=user_profile_page---------2-------------15d9384b8fa5---------------" target="_blank">Pre Account Takeover</a></li>
+        <li><a href="https://medium.com/@adhamelhansye/how-i-find-7x-subdomain-takeover-in-one-program-106fea7543b5?source=user_profile_page---------3-------------15d9384b8fa5---------------" target="_blank">7x Subdomain Takeover</a></li>
       </ul>
     </div>
 
@@ -120,24 +121,32 @@ header:
         </thead>
         <tbody>
           <tr>
-            <td>001</td>
-            <td>SQL Injection Vulnerability</td>
+            <td>30x</td>
+            <td>Reflected Cross Site Scripting </td>
           </tr>
           <tr>
-            <td>002</td>
-            <td>Cross-Site Scripting (XSS)</td>
+            <td>4x</td>
+            <td>Pre Account Takeover</td>
           </tr>
           <tr>
-            <td>003</td>
-            <td>Insecure Direct Object Reference</td>
+            <td>25x</td>
+            <td>Leakds Credentails leads to ATO</td>
           </tr>
           <tr>
-            <td>004</td>
-            <td>Broken Authentication</td>
+            <td>1x</td>
+            <td>Information disclosure leads to FTP Server Takeover</td>
           </tr>
           <tr>
-            <td>005</td>
-            <td>Cross-Site Request Forgery (CSRF)</td>
+            <td>7x</td>
+            <td>Subdomain Takeover</td>
+          </tr>
+          <tr>
+            <td>2x</td>
+            <td>ClickJacking</td>
+          </tr>
+          <tr>
+            <td>3x</td>
+            <td>Logic Bugs</td>
           </tr>
         </tbody>
       </table>
