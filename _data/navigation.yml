@@ -7,7 +7,7 @@ main:
   - title: "About"
     url: /about
 Home:
-  -   - title: Posts
+  - title: Home
     children:
       - title: " Web Application "
         url: /web/
