@@ -6,5 +6,9 @@ main:
     url: /bugbounty
   - title: "About"
     url: /about
-
+Home:
+  -   - title: Posts
+    children:
+      - title: " Web Application "
+        url: /web/
 
