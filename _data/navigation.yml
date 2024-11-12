@@ -8,5 +8,10 @@ main:
     url: /blog
   - title: "About"
     url: /about
-
+# Blog links
+blog:
+  - title: Web Applications Hackers Handbook 
+    children:
+      - title: "- Chapter 1 "
+        url: _posts/Web-Hacking/wahh/
 
