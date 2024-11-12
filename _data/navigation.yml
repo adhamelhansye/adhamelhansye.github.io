@@ -4,9 +4,9 @@ main:
     url: /
   - title: "BugBounty"
     url: /bugbounty
+  - title: "Blog"
+    url: /blog
   - title: "About"
     url: /about
-  - title: "Books"
-    url: /books
 
 
