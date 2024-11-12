@@ -1,13 +1,13 @@
 # main links
 main:  
-  - title: "Home"
+  - title: "Posts"
     url: /
   - title: "BugBounty"
     url: /bugbounty
   - title: "About"
     url: /about
-Home:
-  - title: Home
+posts:
+  - title: Posts
     children:
       - title: " Web Application "
         url: /web/
